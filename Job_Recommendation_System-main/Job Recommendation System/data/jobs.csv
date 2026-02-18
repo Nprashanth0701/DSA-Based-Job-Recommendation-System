@@ -1,0 +1,31 @@
+﻿JobID,Company,Role,MinCGPA,Stipend,Skills
+1,Google,SDE,6.5,80000,C++;DSA;OOPS
+2,Amazon,SDE,6.5,70000,C++;DSA;OS
+3,Microsoft,SDE,6.8,75000,C++;DSA;DBMS
+4,Flipkart,Backend Developer,6,60000,Java;DSA;SQL
+5,Swiggy,Analyst,6,50000,SQL;Statistics;PowerBI
+6,Zomato,Data Analyst,6.2,55000,SQL;Excel;Statistics
+7,TCS,System Engineer,6,30000,C;OOPS;OS
+8,Infosys,Analyst,6,30000,SQL;Excel
+9,Wipro,Project Engineer,6,28000,Java;SQL
+10,Accenture,Associate,6.2,32000,SQL;Excel
+11,Uber,Backend Developer,7,90000,C++;DSA;SystemDesign
+12,Ola,SDE,6.5,65000,Java;DSA
+13,Adobe,SDE,7.2,100000,C++;DSA;OOPS
+14,Oracle,Database Engineer,6.8,85000,SQL;DBMS
+15,Paytm,Backend Developer,6.3,60000,Java;Spring;SQL
+16,PhonePe,SDE,6.5,70000,C++;DSA;OS
+17,Meesho,Analyst,6,45000,Excel;PowerBI
+18,Byjus,Data Analyst,6.2,50000,Python;Statistics
+19,Razorpay,SDE,6.8,80000,Java;DSA
+20,Cred,Backend Developer,7,85000,Java;DSA;SystemDesign
+21,StartupX,Junior Developer,0,25000,HTML;CSS;JavaScript
+22,FreelanceHub,Web Intern,0,20000,HTML;CSS
+23,OpenSourceOrg,Contributor,0,0,C++;DSA
+24,SkillUp,Data Intern,0,22000,Python;SQL
+25,LocalTech,IT Support,0,18000,OS;Networking
+26,CampusLab,Research Intern,0,0,Python;ML
+27,DevWorks,Backend Intern,0,30000,Java;SQL
+28,Designify,UI Intern,0,15000,HTML;CSS
+29,AnalyticsCo,Junior Analyst,0,28000,Excel;Statistics
+30,CloudStart,Cloud Trainee,0,32000,Linux;Networking
