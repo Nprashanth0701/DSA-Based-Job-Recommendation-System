@@ -86,8 +86,8 @@ g++ main.cpp src/RecommendationEngine.cpp -o app
 
 ## 🙋‍♂ About Me
 
-**Pilli Sasi Kaladhar**  
+**Nethavath Prashanth**  
 B.Tech, IIT Patna  
 Aspiring Software Engineer  
-GitHub: https://github.com/Sasigit1704  
-LinkedIn: https://linkedin.com/in/pillisasikaladhar170404  
+GitHub:  https://github.com/Nprashanth0701
+LinkedIn: https://www.linkedin.com/in/nethavath-prashanth-a5543925a/  
